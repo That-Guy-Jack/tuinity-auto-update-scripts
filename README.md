@@ -4,7 +4,7 @@ Automaticly downloads the latest tuinity verstion on server startup
 
 Includes:
 
-Proper Java Flags
+Proper Java Flags (aikar flags https://aikar.co/2018/07/02/tuning-the-jvm-g1gc-garbage-collector-flags-for-minecraft/)
 
 Pre configured Ram capacities
 
